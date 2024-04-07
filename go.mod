@@ -1,4 +1,4 @@
-module rssagg
+module github.com/yizhou-lee/rssagg
 
 go 1.21.4
 
